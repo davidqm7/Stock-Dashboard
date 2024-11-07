@@ -5,6 +5,7 @@
 -  [Installation](#installation)
 -  [Dashboard Sections](#dashboard-sections)
 -  [Requirements](#requirements)
+-  [Video](#Video)
 
 
 ## Stock Dashboard
@@ -53,4 +54,9 @@ Revenue Growth Tracking: Compares quarterly revenue changes to monitor growth.
 -Python 3.7+
 
 -Libraries: pandas, requests, beautifulsoup4, plotly, yfinance, dash
+
+
+## Video
+
+[Watch Stock Dashboard Demo](https://www.youtube.com/watch?v=gzSDmm-DNko)
 
