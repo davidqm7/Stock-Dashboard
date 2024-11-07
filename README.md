@@ -33,19 +33,19 @@ Revenue Growth Tracking: Compares quarterly revenue changes to monitor growth.
 
 1. Stock Price Trend
    
- - Displays historical stock price trends for Tesla and Amazon. The trend line shows closing prices over the past 5 years, allowing users to identify upward or downward movements.
+   Displays historical stock price trends for Tesla and Amazon. The trend line shows closing prices over the past 5 years, allowing users to identify upward or downward movements.
    
 2. Quarterly Revenue Analysis
    
- - Visualizes quarterly revenue data, illustrating revenue growth or decline over time. The bar chart provides an overview of the company's performance each quarter.
+   Visualizes quarterly revenue data, illustrating revenue growth or decline over time. The bar chart provides an overview of the company's performance each quarter.
 
 3. Daily Returns Calculation
    
-- Shows daily returns based on stock price fluctuations, which can help understand volatility.
+   Shows daily returns based on stock price fluctuations, which can help understand volatility.
 
 4. Revenue Growth Comparison
 
- Compares quarter-over-quarter revenue growth for each company, providing insights into their financial momentum.
+    Compares quarter-over-quarter revenue growth for each company, providing insights into their financial momentum.
 
 
 ## Requirements
